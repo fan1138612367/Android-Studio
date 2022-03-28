@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="load Episodes" />
+      <item value="get Category List" />
+      <item value="get Category Menus" />
+      <item value="Stub" />
       <item value="Unresolved reference. None of the following candidates is applicable because of receiver type mismatch: public fun &lt;T&gt; StateFlow&lt;TypeVariable(T)&gt;.collectAsState(context: CoroutineContext = ...): State&lt;TypeVariable(T)&gt; defined in androidx.compose.runtime" />
       <item value="a simple LiveData that receives value 3, 3 seconds after being observed for the first time." />
       <item value="Modifier 'contract' is not applicable to 'member function' Function declaration must have a name" />
@@ -19,8 +23,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
