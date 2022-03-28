@@ -1,0 +1,16 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="rulesByKey">
+      <map>
+        <entry key="kotlin:S1128">
+          <value>
+            <Rule active="false" key="kotlin:S1128" />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <rules>
+      <Rule active="false" key="kotlin:S1128" />
+    </rules>
+  </component>
+</application>

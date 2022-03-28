@@ -1,0 +1,33 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="623" />
+    <option name="newTranslationDialogY" value="342" />
+    <histories>
+      <item value="Unresolved reference. None of the following candidates is applicable because of receiver type mismatch: public fun &lt;T&gt; StateFlow&lt;TypeVariable(T)&gt;.collectAsState(context: CoroutineContext = ...): State&lt;TypeVariable(T)&gt; defined in androidx.compose.runtime" />
+      <item value="a simple LiveData that receives value 3, 3 seconds after being observed for the first time." />
+      <item value="Modifier 'contract' is not applicable to 'member function' Function declaration must have a name" />
+      <item value="final field is required to enable safe publication of constructed instance" />
+      <item value="Type inference failed. The value of the type parameter T should be mentioned in input types (argument types, receiver type or expected type). Try to specify it explicitly. Type mismatch: incompatible types of range and element checked in it" />
+      <item value="Failed requirement" />
+      <item value="to be used when no member available" />
+      <item value="Required value was null." />
+      <item value="Illegal Argument Exception" />
+      <item value="Illegal State Exception" />
+      <item value="An immutable value object that represents a request for an image" />
+      <item value="Successfully calculated statistic for project 'Ting' in 0.628 sec" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="6" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1648286553322" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>
