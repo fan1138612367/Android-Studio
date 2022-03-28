@@ -1,5 +1,6 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
     <option name="rulesByKey">
       <map>
         <entry key="kotlin:S1128">
