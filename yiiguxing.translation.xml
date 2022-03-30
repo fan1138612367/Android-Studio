@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Enumerating objects: 172, done.&#10;Counting objects: 100% (172/172), done.&#10;Delta compression using up to 8 threads&#10;Compressing objects: 100% (139/139), done.&#10;error: RPC failed; curl 92 HTTP/2 stream 0 was not closed cleanly: CANCEL (err 8)&#10;send-pack: unexpected disconnect while reading sideband packet&#10;Writing objects: 100% (172/172), 1.06 MiB | 14.00 KiB/s, done.&#10;Total 172 (delta 22), reused 148 (delta 19), pack-reused 0&#10;fatal: the remote end hung up unexpectedly&#10;Everything up-to-date&#10;" />
       <item value="Mixing named and positioned arguments is not allowed" />
       <item value="load Episodes" />
       <item value="get Category List" />
@@ -24,7 +25,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
+        <entry key="CHINESE" value="11" />
         <entry key="ENGLISH" value="10" />
       </map>
     </option>
