@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Mixing named and positioned arguments is not allowed" />
       <item value="load Episodes" />
       <item value="get Category List" />
       <item value="get Category Menus" />
@@ -23,7 +24,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
+        <entry key="CHINESE" value="10" />
         <entry key="ENGLISH" value="10" />
       </map>
     </option>
