@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Setting the fragment as the LifecycleOwner might cause&quot; + &quot; memory leaks because views lives shorter than the Fragment. Consider&quot; + &quot; using Fragment's view lifecycle" />
+      <item value="The following classes could not be instantiated:" />
       <item value="vector Drawables" />
       <item value="use Support Library" />
       <item value="kotlin Compiler Extension Version" />
@@ -30,13 +32,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
+        <entry key="CHINESE" value="14" />
         <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648286553322" />
+    <option name="lastTrimTime" value="1648817376811" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
