@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="nickname" />
       <item value="category" />
       <item value="Track" />
       <item value="Creators" />
