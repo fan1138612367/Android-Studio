@@ -1,9 +1,19 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Track" />
+      <item value="Creators" />
+      <item value="Playlist" />
+      <item value="Song List" />
+      <item value="Play List" />
+      <item value="song" />
+      <item value="suo" />
+      <item value="Song" />
+      <item value="Artist" />
+      <item value="New Song" />
       <item value="Layout Params" />
       <item value="If it is known that updateUiElement can be invoked both from the Main thread and from other threads, `immediate` dispatcher is used as a performance optimization to avoid unnecessary dispatch." />
       <item value="Setting the fragment as the LifecycleOwner might cause&quot; + &quot; memory leaks because views lives shorter than the Fragment. Consider&quot; + &quot; using Fragment's view lifecycle" />
@@ -34,8 +44,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="28" />
+        <entry key="ENGLISH" value="28" />
       </map>
     </option>
   </component>
