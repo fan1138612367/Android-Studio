@@ -5,9 +5,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Minimum and maximum scroll positions. The minimum scroll position is generally zero and the maximum scroll position is generally the content size less the screen size. So if the content width is 1000 pixels and the screen width is 200 pixels, the maximum scroll offset should be 800 pixels." />
+      <item value="on Double Tap" />
+      <item value="start Scale Up" />
+      <item value="request Disallow Intercept Touch Event" />
+      <item value="判断内容是否相同" />
       <item value="Custom view `ImageView` has setOnTouchListener called on it but does not override performClick" />
       <item value="Gesture Listener" />
-      <item value="on Double Tap" />
       <item value="On Double Tap Listener" />
       <item value="On Scale Gesture Listener" />
       <item value="On Gesture Listener" />
@@ -51,15 +55,11 @@
       <item value="ComposeOptions.kotlinCompilerVersion is deprecated. Compose now uses the kotlin compiler defined in your buildscript." />
       <item value="@Composable invocations can only happen from the context of a @Composable function" />
       <item value="Enumerating objects: 172, done.&#10;Counting objects: 100% (172/172), done.&#10;Delta compression using up to 8 threads&#10;Compressing objects: 100% (139/139), done.&#10;error: RPC failed; curl 92 HTTP/2 stream 0 was not closed cleanly: CANCEL (err 8)&#10;send-pack: unexpected disconnect while reading sideband packet&#10;Writing objects: 100% (172/172), 1.06 MiB | 14.00 KiB/s, done.&#10;Total 172 (delta 22), reused 148 (delta 19), pack-reused 0&#10;fatal: the remote end hung up unexpectedly&#10;Everything up-to-date&#10;" />
-      <item value="Mixing named and positioned arguments is not allowed" />
-      <item value="load Episodes" />
-      <item value="get Category List" />
-      <item value="get Category Menus" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
       </map>
     </option>
   </component>
