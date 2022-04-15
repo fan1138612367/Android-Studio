@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="All illegal access operations will be denied in a future release" />
+      <item value="WARNING: An illegal reflective access operation has occurred WARNING: Illegal reflective access by retrofit2.Platform (file:C:UsersFan.gradlecachesmodules-2files-2.1com.squareup.retrofit2retrofit2.9.0d8fdfbd5da952141a665a403348b74538efc05ffretrofit-2.9.0.jar) to constructor java.lang.invoke.MethodHandlesLookup(java.lang.Class,int) WARNING: Please consider reporting this to the maintainers of retrofit2.Platform WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations WARNING: All illegal access operations will be denied in a future release" />
+      <item value="Exception in thread" />
+      <item value="Exception" />
+      <item value="Use --illegal-access=warn to enable warnings of further illegal reflective access operations WARNING: All illegal access operations will be denied in a future release" />
+      <item value="to constructor java.lang.invoke.MethodHandlesLookup(java.lang.Class,int) WARNING: Please consider reporting this to the maintainers of retrofit2.Platform" />
+      <item value="Please consider reporting this to the maintainers of retrofit2.Platform" />
+      <item value="An illegal reflective access operation has occurred" />
       <item value="Only type parameters of inline functions can be reified" />
       <item value="Cannot use 'T' as reified type parameter. Use a class instead." />
       <item value="Deprecated" />
@@ -46,21 +54,16 @@
       <item value="Type inference failed. The value of the type parameter T should be mentioned in input types (argument types, receiver type or expected type). Try to specify it explicitly. Type mismatch: incompatible types of range and element checked in it" />
       <item value="Failed requirement" />
       <item value="to be used when no member available" />
-      <item value="Required value was null." />
-      <item value="Illegal Argument Exception" />
-      <item value="Illegal State Exception" />
-      <item value="An immutable value object that represents a request for an image" />
-      <item value="Successfully calculated statistic for project 'Ting' in 0.628 sec" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="CHINESE" value="35" />
+        <entry key="ENGLISH" value="36" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649523439642" />
+    <option name="lastTrimTime" value="1649984783589" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
