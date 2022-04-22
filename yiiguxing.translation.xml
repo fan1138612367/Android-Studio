@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Filled Tonal Icon Button" />
+      <item value="weight" />
+      <item value="Scale" />
+      <item value="animated Fab Scale" />
       <item value="Align the element horizontally within the Column. This alignment will have priority over the Column's horizontalAlignment parameter. Example usage:" />
       <item value="Cannot use 'T' as reified type parameter. Use a class instead." />
       <item value="Value class cannot have properties with backing fields" />
@@ -51,15 +55,11 @@
       <item value="song" />
       <item value="suo" />
       <item value="Song" />
-      <item value="Artist" />
-      <item value="New Song" />
-      <item value="Layout Params" />
-      <item value="If it is known that updateUiElement can be invoked both from the Main thread and from other threads, `immediate` dispatcher is used as a performance optimization to avoid unnecessary dispatch." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="ENGLISH" value="57" />
       </map>
     </option>
   </component>
