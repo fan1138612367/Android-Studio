@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Align the element horizontally within the Column. This alignment will have priority over the Column's horizontalAlignment parameter. Example usage:" />
       <item value="Cannot use 'T' as reified type parameter. Use a class instead." />
       <item value="Value class cannot have properties with backing fields" />
       <item value="Value classes without @JvmInline annotation are not supported yet" />
@@ -54,17 +55,16 @@
       <item value="New Song" />
       <item value="Layout Params" />
       <item value="If it is known that updateUiElement can be invoked both from the Main thread and from other threads, `immediate` dispatcher is used as a performance optimization to avoid unnecessary dispatch." />
-      <item value="Setting the fragment as the LifecycleOwner might cause&quot; + &quot; memory leaks because views lives shorter than the Fragment. Consider&quot; + &quot; using Fragment's view lifecycle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
+        <entry key="CHINESE" value="59" />
         <entry key="ENGLISH" value="53" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649984783589" />
+    <option name="lastTrimTime" value="1650635612545" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
