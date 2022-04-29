@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Using 'GridCells' is an error. GridCells was moved to .grid subpackage" />
       <item value="encrypt We API" />
       <item value="Filled Tonal Icon Button" />
       <item value="weight" />
@@ -54,7 +55,6 @@
       <item value="Song List" />
       <item value="Play List" />
       <item value="song" />
-      <item value="suo" />
     </histories>
     <option name="languageScores">
       <map>
