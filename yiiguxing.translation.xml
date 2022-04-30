@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="refusing to merge unrelated histories" />
       <item value="Using 'GridCells' is an error. GridCells was moved to .grid subpackage" />
       <item value="encrypt We API" />
       <item value="Filled Tonal Icon Button" />
@@ -54,17 +55,16 @@
       <item value="Playlist" />
       <item value="Song List" />
       <item value="Play List" />
-      <item value="song" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
+        <entry key="CHINESE" value="60" />
         <entry key="ENGLISH" value="58" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650635612545" />
+    <option name="lastTrimTime" value="1651324327027" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
