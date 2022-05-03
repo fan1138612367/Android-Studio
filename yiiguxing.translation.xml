@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="login Cellphone" />
       <item value="When LaunchedEffect enters the composition it will launch block into the composition's CoroutineContext. The coroutine will be cancelled and re-launched when LaunchedEffect is recomposed with a different key1. The coroutine will be cancelled when the LaunchedEffect leaves the composition. This function should not be used to (re-)launch ongoing tasks in response to callback events by way of storing callback data in MutableState passed to key1. Instead, see rememberCoroutineScope to obtain a CoroutineScope that may be used to launch ongoing jobs scoped to the composition in response to event callbacks." />
       <item value="Tertiary" />
       <item value="the state object to be used to control or observe the list's state." />
@@ -54,12 +55,11 @@
       <item value="Only type parameters of inline functions can be reified" />
       <item value="Deprecated" />
       <item value="An interface cannot inherit from a class This type is final, so it cannot be inherited from" />
-      <item value="The Key Promoter X helps you to learn essential shortcuts while you are working. When you use the mouse on a button inside the IDE, the Key Promoter X shows you the keyboard shortcut that you should have used instead. This provides an easy way to learn how to replace tedious mouse work with keyboard keys and helps to transition to a faster, mouse free development. The Key Promoter X tool window shows you a hit-list of the mouse actions you use the most and directly provides you with the shortcut you can use instead. For buttons that don't have a shortcut, the Key Promoter X prompts you with the possibility to directly create one." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="ENGLISH" value="65" />
       </map>
     </option>
   </component>
