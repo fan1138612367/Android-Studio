@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Sends the specified element to this channel, suspending the caller while the buffer of this channel is full or if it does not exist, or throws an exception if the channel is closed for send (see close for details). Closing a channel after this function has suspended does not cause this suspended send invocation to abort, because closing a channel is conceptually like sending a special &quot;close token&quot; over this channel. All elements sent over the channel are delivered in first-in first-out order. The sent element will be delivered to receivers before the close token. This suspending function is cancellable. If the Job of the current coroutine is cancelled or completed while this function is suspended, this function immediately resumes with a CancellationException. There is a prompt cancellation guarantee. If the job was cancelled while this function was suspended, it will not resume successfully. The send call can send the element to the channel, but then throw CancellationException, thus an exception should not be treated as a failure to deliver the element. See &quot;Undelivered elements&quot; section in Channel documentation for details on handling undelivered elements. Note that this function does not check for cancellation when it is not suspended. Use yield or CoroutineScope.isActive to periodically check for cancellation in tight loops if needed. This function can be used in select invocations with the onSend clause. Use trySend to try sending to this channel without waiting." />
       <item value="Marks the annotated declaration as deprecated. A deprecated API element is not recommended to use, typically because it's being phased out or a better alternative exists. To help removing deprecated API gradually, the property level could be used. Usually a gradual phase-out goes through the &quot;warning&quot;, then &quot;error&quot;, then &quot;hidden&quot; or &quot;removed&quot; stages: First and by default, DeprecationLevel.WARNING is used to notify API consumers, but not to break their compilation or runtime usages. Then, some time later the deprecation level is raised to DeprecationLevel.ERROR, so that no new Kotlin code can be compiled using the deprecated API. Finally, the API is either removed entirely, or hidden (DeprecationLevel.HIDDEN) from code, so its usages look like unresolved references, while the API remains in the compiled code preserving binary compatibility with previously compiled code." />
       <item value="Marks the annotated declaration as deprecated. In contrast to Deprecated, severity of the reported diagnostic is not a constant value, but differs depending on the API version of the usage (the value of the -api-version argument when compiling the module where the usage is located). If the API version is greater or equal than hiddenSince, the declaration will not be accessible from the code (as if it was deprecated with level DeprecationLevel.HIDDEN), otherwise if the API version is greater or equal than errorSince, the usage will be marked as an error (as with DeprecationLevel.ERROR), otherwise if the API version is greater or equal than warningSince, the usage will be marked as a warning (as with DeprecationLevel.WARNING), otherwise the annotation is ignored." />
       <item value="login Cellphone" />
@@ -54,11 +55,10 @@
       <item value="to constructor java.lang.invoke.MethodHandlesLookup(java.lang.Class,int) WARNING: Please consider reporting this to the maintainers of retrofit2.Platform" />
       <item value="Please consider reporting this to the maintainers of retrofit2.Platform" />
       <item value="An illegal reflective access operation has occurred" />
-      <item value="Only type parameters of inline functions can be reified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
+        <entry key="CHINESE" value="67" />
         <entry key="ENGLISH" value="65" />
       </map>
     </option>
