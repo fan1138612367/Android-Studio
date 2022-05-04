@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Creates an instance of a cold Flow with elements that are sent to a SendChannel provided to the builder's block of code via ProducerScope. It allows elements to be produced by code that is running in a different context or concurrently. The resulting flow is cold, which means that block is called every time a terminal operator is applied to the resulting flow. This builder ensures thread-safety and context preservation, thus the provided ProducerScope can be used concurrently from different contexts. The resulting flow completes as soon as the code in the block and all its children completes. Use awaitClose as the last statement to keep it running. A more detailed example is provided in the documentation of callbackFlow. A channel with the default buffer size is used. Use the buffer operator on the resulting flow to specify a user-defined value and to control what happens when data is produced faster than consumed, i.e. to control the back-pressure behavior. Adjacent applications of channelFlow, flowOn, buffer, and produceIn are always fused so that only one properly configured channel is used for execution. Examples of usage:" />
       <item value="Exception in thread &quot;main&quot; java.lang.IllegalStateException: Flow invariant is violated: Flow was collected in EmptyCoroutineContext, but emission happened in [DispatchedCoroutine{Active}@3c377f7f, Dispatchers.IO]. Please refer to 'flow' documentation or use 'flowOn' instead" />
       <item value="This declaration is experimental and its usage should be marked with '@kotlinx.coroutines.ExperimentalCoroutinesApi' or '@OptIn(kotlinx.coroutines.ExperimentalCoroutinesApi::class)'" />
       <item value="Continuation" />
@@ -54,11 +55,10 @@
       <item value="WARNING: An illegal reflective access operation has occurred WARNING: Illegal reflective access by retrofit2.Platform (file:C:UsersFan.gradlecachesmodules-2files-2.1com.squareup.retrofit2retrofit2.9.0d8fdfbd5da952141a665a403348b74538efc05ffretrofit-2.9.0.jar) to constructor java.lang.invoke.MethodHandlesLookup(java.lang.Class,int) WARNING: Please consider reporting this to the maintainers of retrofit2.Platform WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations WARNING: All illegal access operations will be denied in a future release" />
       <item value="Exception in thread" />
       <item value="Exception" />
-      <item value="Use --illegal-access=warn to enable warnings of further illegal reflective access operations WARNING: All illegal access operations will be denied in a future release" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
+        <entry key="CHINESE" value="70" />
         <entry key="ENGLISH" value="67" />
       </map>
     </option>
