@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Exception in thread &quot;main&quot; java.lang.IllegalStateException: Flow invariant is violated: Flow was collected in EmptyCoroutineContext, but emission happened in [DispatchedCoroutine{Active}@3c377f7f, Dispatchers.IO]. Please refer to 'flow' documentation or use 'flowOn' instead" />
       <item value="This declaration is experimental and its usage should be marked with '@kotlinx.coroutines.ExperimentalCoroutinesApi' or '@OptIn(kotlinx.coroutines.ExperimentalCoroutinesApi::class)'" />
       <item value="Continuation" />
       <item value="Sends the specified element to this channel, suspending the caller while the buffer of this channel is full or if it does not exist, or throws an exception if the channel is closed for send (see close for details). Closing a channel after this function has suspended does not cause this suspended send invocation to abort, because closing a channel is conceptually like sending a special &quot;close token&quot; over this channel. All elements sent over the channel are delivered in first-in first-out order. The sent element will be delivered to receivers before the close token. This suspending function is cancellable. If the Job of the current coroutine is cancelled or completed while this function is suspended, this function immediately resumes with a CancellationException. There is a prompt cancellation guarantee. If the job was cancelled while this function was suspended, it will not resume successfully. The send call can send the element to the channel, but then throw CancellationException, thus an exception should not be treated as a failure to deliver the element. See &quot;Undelivered elements&quot; section in Channel documentation for details on handling undelivered elements. Note that this function does not check for cancellation when it is not suspended. Use yield or CoroutineScope.isActive to periodically check for cancellation in tight loops if needed. This function can be used in select invocations with the onSend clause. Use trySend to try sending to this channel without waiting." />
@@ -54,12 +55,11 @@
       <item value="Exception in thread" />
       <item value="Exception" />
       <item value="Use --illegal-access=warn to enable warnings of further illegal reflective access operations WARNING: All illegal access operations will be denied in a future release" />
-      <item value="to constructor java.lang.invoke.MethodHandlesLookup(java.lang.Class,int) WARNING: Please consider reporting this to the maintainers of retrofit2.Platform" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="ENGLISH" value="67" />
       </map>
     </option>
   </component>
