@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="The type with only one value: the Unit object. This type corresponds to the void type in Java." />
+      <item value="Executes the given function block and returns the duration of elapsed time interval. The elapsed time is measured with TimeSource.Monotonic." />
+      <item value="Executes the given block and returns elapsed time in milliseconds." />
+      <item value="Returns a Duration equal to this Int number of hours." />
+      <item value="The value of this duration expressed as a Long number of days. An infinite duration value is converted either to Long.MAX_VALUE or Long.MIN_VALUE depending on its sign" />
+      <item value="'days(Int): Duration' is deprecated. Use 'Int.days' extension property from Duration.Companion instead." />
+      <item value="This declaration is experimental and its usage must be marked with '@kotlin.time.ExperimentalTime' or '@OptIn(kotlin.time.ExperimentalTime::class)'" />
       <item value="Creates an instance of a cold Flow with elements that are sent to a SendChannel provided to the builder's block of code via ProducerScope. It allows elements to be produced by code that is running in a different context or concurrently. The resulting flow is cold, which means that block is called every time a terminal operator is applied to the resulting flow. This builder ensures thread-safety and context preservation, thus the provided ProducerScope can be used concurrently from different contexts. The resulting flow completes as soon as the code in the block and all its children completes. Use awaitClose as the last statement to keep it running. A more detailed example is provided in the documentation of callbackFlow. A channel with the default buffer size is used. Use the buffer operator on the resulting flow to specify a user-defined value and to control what happens when data is produced faster than consumed, i.e. to control the back-pressure behavior. Adjacent applications of channelFlow, flowOn, buffer, and produceIn are always fused so that only one properly configured channel is used for execution. Examples of usage:" />
       <item value="Exception in thread &quot;main&quot; java.lang.IllegalStateException: Flow invariant is violated: Flow was collected in EmptyCoroutineContext, but emission happened in [DispatchedCoroutine{Active}@3c377f7f, Dispatchers.IO]. Please refer to 'flow' documentation or use 'flowOn' instead" />
       <item value="This declaration is experimental and its usage should be marked with '@kotlinx.coroutines.ExperimentalCoroutinesApi' or '@OptIn(kotlinx.coroutines.ExperimentalCoroutinesApi::class)'" />
@@ -48,23 +55,16 @@
       <item value="Gesture Listener" />
       <item value="On Double Tap Listener" />
       <item value="On Scale Gesture Listener" />
-      <item value="On Gesture Listener" />
-      <item value="Spannable String" />
-      <item value="internal" />
-      <item value="All illegal access operations will be denied in a future release" />
-      <item value="WARNING: An illegal reflective access operation has occurred WARNING: Illegal reflective access by retrofit2.Platform (file:C:UsersFan.gradlecachesmodules-2files-2.1com.squareup.retrofit2retrofit2.9.0d8fdfbd5da952141a665a403348b74538efc05ffretrofit-2.9.0.jar) to constructor java.lang.invoke.MethodHandlesLookup(java.lang.Class,int) WARNING: Please consider reporting this to the maintainers of retrofit2.Platform WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations WARNING: All illegal access operations will be denied in a future release" />
-      <item value="Exception in thread" />
-      <item value="Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="73" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651324327027" />
+    <option name="lastTrimTime" value="1651759952189" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
