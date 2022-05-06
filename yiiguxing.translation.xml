@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Redundant creation of Json format. Creating instances for each usage can be slow." />
       <item value="Creates a dark dynamic color scheme. Use this function to create a color scheme based off the system wallpaper. If the developer changes the wallpaper this color scheme will change accordingly. This dynamic scheme is a dark theme variant" />
       <item value="dynamic Dark Color Scheme" />
       <item value="The type with only one value: the Unit object. This type corresponds to the void type in Java." />
@@ -54,11 +55,10 @@
       <item value="request Disallow Intercept Touch Event" />
       <item value="判断内容是否相同" />
       <item value="Custom view `ImageView` has setOnTouchListener called on it but does not override performClick" />
-      <item value="Gesture Listener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
+        <entry key="CHINESE" value="75" />
         <entry key="ENGLISH" value="75" />
       </map>
     </option>
