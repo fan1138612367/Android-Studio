@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="hex" />
+      <item value="vector" />
       <item value="Redundant creation of Json format. Creating instances for each usage can be slow." />
       <item value="Creates a dark dynamic color scheme. Use this function to create a color scheme based off the system wallpaper. If the developer changes the wallpaper this color scheme will change accordingly. This dynamic scheme is a dark theme variant" />
       <item value="dynamic Dark Color Scheme" />
@@ -53,18 +55,16 @@
       <item value="on Double Tap" />
       <item value="start Scale Up" />
       <item value="request Disallow Intercept Touch Event" />
-      <item value="判断内容是否相同" />
-      <item value="Custom view `ImageView` has setOnTouchListener called on it but does not override performClick" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="77" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652260472406" />
+    <option name="lastTrimTime" value="1652916231587" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
