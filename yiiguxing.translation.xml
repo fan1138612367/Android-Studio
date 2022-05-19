@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="captcha" />
       <item value="hex" />
       <item value="vector" />
       <item value="Redundant creation of Json format. Creating instances for each usage can be slow." />
@@ -54,12 +55,11 @@
       <item value="Minimum and maximum scroll positions. The minimum scroll position is generally zero and the maximum scroll position is generally the content size less the screen size. So if the content width is 1000 pixels and the screen width is 200 pixels, the maximum scroll offset should be 800 pixels." />
       <item value="on Double Tap" />
       <item value="start Scale Up" />
-      <item value="request Disallow Intercept Touch Event" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="78" />
       </map>
     </option>
   </component>
