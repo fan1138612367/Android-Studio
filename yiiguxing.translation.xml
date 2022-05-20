@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Rain Music Protocol" />
       <item value="sent" />
       <item value="captcha" />
       <item value="hex" />
@@ -54,12 +55,11 @@
       <item value="contains references to both AndroidX and old support library. This seems like the library is partially migrated. Jetifier will try to rewrite the library anyway" />
       <item value="set Is Can Touch" />
       <item value="Minimum and maximum scroll positions. The minimum scroll position is generally zero and the maximum scroll position is generally the content size less the screen size. So if the content width is 1000 pixels and the screen width is 200 pixels, the maximum scroll offset should be 800 pixels." />
-      <item value="on Double Tap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="CHINESE" value="79" />
+        <entry key="ENGLISH" value="80" />
       </map>
     </option>
   </component>
