@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="interests Selection State" />
+      <item value="feed State" />
       <item value="Preview Parameter" />
       <item value="Composable functions with non-default parameters are not supported in Preview unless they are annotated with @PreviewParameter." />
       <item value="composable-functions-with-non-default-parameters-are-not-supported-in-preview-unless-they-are-annotated-with-@previewparameter.-" />
@@ -53,18 +55,16 @@
       <item value="Using 'GridCells' is an error. GridCells was moved to .grid subpackage" />
       <item value="encrypt We API" />
       <item value="Filled Tonal Icon Button" />
-      <item value="weight" />
-      <item value="Scale" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="89" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="91" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653837735588" />
+    <option name="lastTrimTime" value="1654424134817" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
