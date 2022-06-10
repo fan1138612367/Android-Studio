@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Since we're displaying SVGs in the app, Coil needs an ImageLoader which supports this format. During Coil's initialization it will call `applicationContext.newImageLoader()` to obtain an ImageLoader." />
+      <item value="Initialize Sync; the system responsible for keeping data in the app up to date." />
       <item value="Content padding parameter it is not used" />
       <item value="'LocalWindowInsets: ProvidableCompositionLocal&lt;WindowInsets&gt;' is deprecated. accompanistinsets is deprecated. The androidx.compose equivalent of LocalWindowInsets is the extensions on WindowInsets. For more migration information, please visit https:google.github.ioaccompanistinsetsmigration" />
       <item value="interests Selection State" />
@@ -53,13 +55,11 @@
       <item value="Creates an instance of Json configured from the optionally given Json instance and adjusted with builderAction." />
       <item value="with Transaction" />
       <item value="Calls the specified suspending block in a database transaction. The transaction will be marked as successful unless an exception is thrown in the suspending block or the coroutine is cancelled. Room will only perform at most one transaction at a time, additional transactions are queued and executed on a first come, first serve order. Performing blocking database operations is not permitted in a coroutine scope other than the one received by the suspending block. It is recommended that all Dao function invoked within the block be suspending functions. The dispatcher used to execute the given block will utilize threads from Room's query executor." />
-      <item value="refusing to merge unrelated histories" />
-      <item value="Using 'GridCells' is an error. GridCells was moved to .grid subpackage" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="ENGLISH" value="93" />
       </map>
     </option>
   </component>
