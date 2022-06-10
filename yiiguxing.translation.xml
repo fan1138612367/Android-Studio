@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Enables namespacing of each library's R class so that its R class includes only the resources declared in the library itself and none from the library's dependencies, thereby reducing the size of the R class for that library" />
+      <item value="non Transitive R Class" />
+      <item value="Ensure Https Interceptor" />
       <item value="Since we're displaying SVGs in the app, Coil needs an ImageLoader which supports this format. During Coil's initialization it will call `applicationContext.newImageLoader()` to obtain an ImageLoader." />
       <item value="Initialize Sync; the system responsible for keeping data in the app up to date." />
       <item value="Content padding parameter it is not used" />
@@ -52,14 +55,11 @@
       <item value="Type checking has run into a recursive problem. Easiest workaround: specify types of your declarations explicitly" />
       <item value="Json Configuration" />
       <item value="conf" />
-      <item value="Creates an instance of Json configured from the optionally given Json instance and adjusted with builderAction." />
-      <item value="with Transaction" />
-      <item value="Calls the specified suspending block in a database transaction. The transaction will be marked as successful unless an exception is thrown in the suspending block or the coroutine is cancelled. Room will only perform at most one transaction at a time, additional transactions are queued and executed on a first come, first serve order. Performing blocking database operations is not permitted in a coroutine scope other than the one received by the suspending block. It is recommended that all Dao function invoked within the block be suspending functions. The dispatcher used to execute the given block will utilize threads from Room's query executor." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="96" />
+        <entry key="ENGLISH" value="97" />
       </map>
     </option>
   </component>
