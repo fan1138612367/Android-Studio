@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="inner Padding" />
       <item value="on Globally Positioned" />
       <item value="Interests" />
       <item value="Frequently changing state should not be directly read in composable function" />
@@ -54,12 +55,11 @@
       <item value="Marks the annotated declaration as deprecated. In contrast to Deprecated, severity of the reported diagnostic is not a constant value, but differs depending on the API version of the usage (the value of the -api-version argument when compiling the module where the usage is located). If the API version is greater or equal than hiddenSince, the declaration will not be accessible from the code (as if it was deprecated with level DeprecationLevel.HIDDEN), otherwise if the API version is greater or equal than errorSince, the usage will be marked as an error (as with DeprecationLevel.ERROR), otherwise if the API version is greater or equal than warningSince, the usage will be marked as a warning (as with DeprecationLevel.WARNING), otherwise the annotation is ignored." />
       <item value="login Cellphone" />
       <item value="When LaunchedEffect enters the composition it will launch block into the composition's CoroutineContext. The coroutine will be cancelled and re-launched when LaunchedEffect is recomposed with a different key1. The coroutine will be cancelled when the LaunchedEffect leaves the composition. This function should not be used to (re-)launch ongoing tasks in response to callback events by way of storing callback data in MutableState passed to key1. Instead, see rememberCoroutineScope to obtain a CoroutineScope that may be used to launch ongoing jobs scoped to the composition in response to event callbacks." />
-      <item value="Tertiary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="101" />
+        <entry key="ENGLISH" value="102" />
       </map>
     </option>
   </component>
