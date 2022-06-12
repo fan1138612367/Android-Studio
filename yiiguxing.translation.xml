@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="does not exist." />
       <item value="declaration of 'androidx.paging.PagingDataDiffer' appears in dataapp~~_s5qgmKquP3pc8mEe-jgmA==com.example.ting-_0KnpneH_Op5JluMo6Zp0A==base.apk!classes14.dex) at androidx.paging.AsyncPagingDataDifferdifferBase1.&lt;init&gt;(AsyncPagingDataDiffer.kt:78)" />
       <item value="AndroidRuntime: FATAL EXCEPTION: main" />
       <item value="Fatal signal 6 (SIGABRT), code -6 (SI_TKILL) in tid 6559 (om.example.ting), pid 6559 (om.example.ting)" />
@@ -54,12 +55,11 @@
       <item value="The type with only one value: the Unit object. This type corresponds to the void type in Java." />
       <item value="Executes the given function block and returns the duration of elapsed time interval. The elapsed time is measured with TimeSource.Monotonic." />
       <item value="Executes the given block and returns elapsed time in milliseconds." />
-      <item value="Returns a Duration equal to this Int number of hours." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="114" />
+        <entry key="ENGLISH" value="115" />
       </map>
     </option>
   </component>
