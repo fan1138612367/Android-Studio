@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="declaration of 'androidx.paging.PagingDataDiffer' appears in dataapp~~_s5qgmKquP3pc8mEe-jgmA==com.example.ting-_0KnpneH_Op5JluMo6Zp0A==base.apk!classes14.dex) at androidx.paging.AsyncPagingDataDifferdifferBase1.&lt;init&gt;(AsyncPagingDataDiffer.kt:78)" />
+      <item value="AndroidRuntime: FATAL EXCEPTION: main" />
+      <item value="Fatal signal 6 (SIGABRT), code -6 (SI_TKILL) in tid 6559 (om.example.ting), pid 6559 (om.example.ting)" />
+      <item value="JNI DETECTED ERROR IN APPLICATION: JNI CallVoidMethodV called with pending exception java.lang.NoSuchMethodError: No direct method &lt;init&gt;(LandroidxpagingDifferCallback;LkotlinxcoroutinesCoroutineDispatcher;)V in class LandroidxpagingPagingDataDiffer; or its super classes (declaration of 'androidx.paging.PagingDataDiffer' appears in dataapp~~sa6L6Z_w0zZ95mxywfSrKA==com.example.ting-Bq5YrVKzLX7uCVntziJilg==base.apk!classes14.dex)" />
+      <item value="Exception dispatching input event." />
+      <item value="JNI DETECTED ERROR IN APPLICATION: JNI CallVoidMethodV called with pending exception java.lang.NoSuchMethodError: No direct method &lt;init&gt;(LandroidxpagingDifferCallback;LkotlinxcoroutinesCoroutineDispatcher;)V in class LandroidxpagingPagingDataDiffer; or its super classes (declaration of 'androidx.paging.PagingDataDiffer' appears in dataapp~~sa6L6Z_w0zZ95mxywfSrKA==com.example.ting-Bq5YrVKzLX7uCVntziJilg==base.apk!classes14.dex) java_vm_ext.cc:577] at void androidx.paging.AsyncPagingDataDifferdifferBase1.&lt;init&gt;(androidx.paging.AsyncPagingDataDiffer, androidx.paging.DifferCallback, kotlinx.coroutines.CoroutineDispatcher) (AsyncPagingDataDiffer.kt:78) java_vm_ext.cc:577] at void androidx.paging.AsyncPagingDataDiffer.&lt;init&gt;(androidx.recyclerview.widget.DiffUtilItemCallback, androidx.recyclerview.widget.ListUpdateCallback, kotlinx.coroutines.CoroutineDispatcher, kotlinx.coroutines.CoroutineDispatcher) (AsyncPagingDataDiffer.kt:78) java_vm_ext.cc:577] at void androidx.paging.PagingDataAdapter.&lt;init&gt;(androidx.recyclerview.widget.DiffUtilItemCallback, kotlinx.coroutines.CoroutineDispatcher, kotlinx.coroutines.CoroutineDispatcher) (PagingDataAdapter.kt:78) java_vm_ext.cc:577] at void androidx.paging.PagingDataAdapter.&lt;init&gt;(androidx.recyclerview.widget.DiffUtilItemCallback, kotlinx.coroutines.CoroutineDispatcher, kotlinx.coroutines.CoroutineDispatcher, int, kotlin.jvm.internal.DefaultConstructorMarker) (PagingDataAdapter.kt:61) java_vm_ext.cc:577]" />
+      <item value="Exception dispatching input event" />
       <item value="Automatically convert third-party libraries to use AndroidX" />
       <item value="n: Unable to get provider com.xmlywind.sdk.SigmobFileProvider: java.lang.ClassNotFoundException: Didn't find class &quot;com.xmlywind.sdk.SigmobFileProvider&quot; on path: DexPathList[[zip file &quot;dataapp~~NevkMPxnApAREzLjPI0oSw==com.example.ting-YIB-4LmeTzTIyavo8YWg0Q==base.apk&quot;],nativeLibraryDirectories=[dataapp~~NevkMPxnApAREzLjPI0oSw==com.example.ting-YIB-4LmeTzTIyavo8YWg0Q==libarm64, dataapp~~NevkMPxnApAREzLjPI0oSw==com.example.ting-YIB-4LmeTzTIyavo8YWg0Q==base.apk!libarm64-v8a, systemlib64, system_extlib64]]" />
       <item value="Top-level build file where you can add configuration options common to all sub-projectsmodules" />
@@ -48,18 +55,11 @@
       <item value="Executes the given function block and returns the duration of elapsed time interval. The elapsed time is measured with TimeSource.Monotonic." />
       <item value="Executes the given block and returns elapsed time in milliseconds." />
       <item value="Returns a Duration equal to this Int number of hours." />
-      <item value="The value of this duration expressed as a Long number of days. An infinite duration value is converted either to Long.MAX_VALUE or Long.MIN_VALUE depending on its sign" />
-      <item value="'days(Int): Duration' is deprecated. Use 'Int.days' extension property from Duration.Companion instead." />
-      <item value="This declaration is experimental and its usage must be marked with '@kotlin.time.ExperimentalTime' or '@OptIn(kotlin.time.ExperimentalTime::class)'" />
-      <item value="Creates an instance of a cold Flow with elements that are sent to a SendChannel provided to the builder's block of code via ProducerScope. It allows elements to be produced by code that is running in a different context or concurrently. The resulting flow is cold, which means that block is called every time a terminal operator is applied to the resulting flow. This builder ensures thread-safety and context preservation, thus the provided ProducerScope can be used concurrently from different contexts. The resulting flow completes as soon as the code in the block and all its children completes. Use awaitClose as the last statement to keep it running. A more detailed example is provided in the documentation of callbackFlow. A channel with the default buffer size is used. Use the buffer operator on the resulting flow to specify a user-defined value and to control what happens when data is produced faster than consumed, i.e. to control the back-pressure behavior. Adjacent applications of channelFlow, flowOn, buffer, and produceIn are always fused so that only one properly configured channel is used for execution. Examples of usage:" />
-      <item value="Exception in thread &quot;main&quot; java.lang.IllegalStateException: Flow invariant is violated: Flow was collected in EmptyCoroutineContext, but emission happened in [DispatchedCoroutine{Active}@3c377f7f, Dispatchers.IO]. Please refer to 'flow' documentation or use 'flowOn' instead" />
-      <item value="This declaration is experimental and its usage should be marked with '@kotlinx.coroutines.ExperimentalCoroutinesApi' or '@OptIn(kotlinx.coroutines.ExperimentalCoroutinesApi::class)'" />
-      <item value="Continuation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="114" />
       </map>
     </option>
   </component>
