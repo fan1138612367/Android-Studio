@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Replace with `LazyVerticalGrid` when blocking bugs are fixe" />
       <item value="A MonotonicFrameClock is not available in this CoroutineContext. Callers should supply an appropriate MonotonicFrameClock using withContext." />
       <item value="RowScope here, so these icons will be placed horizontally" />
       <item value="Denotes that the annotated function is considered a sample function, and is linked to from the KDoc of a source module that matches one of the two permitted directory structures: 1. The source module is an ancestor of the sample module, for example: ``` librarysrc.. Source file here that links to a sample librarysamplessrc.. Sample file here that is linked to by the source file ``` 2. The source module is a sibling to the sample module, for example: ``` librarylibrary-subfeaturesrc.. Source file here that links to a sample librarysamplessrc.. Sample file here that is linked to by the source file ``` There are corresponding lint checks ensuring that functions referred to from KDoc with a @sample tag are annotated with this annotation, and also to ensure that any functions annotated with this annotation are linked to from a @sample tag." />
@@ -54,12 +55,11 @@
       <item value="captcha" />
       <item value="captcha Sent" />
       <item value="Rain Music Protocol" />
-      <item value="sent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="CHINESE" value="122" />
+        <entry key="ENGLISH" value="123" />
       </map>
     </option>
   </component>
